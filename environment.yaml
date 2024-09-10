@@ -1,0 +1,12 @@
+name: fastlbp-benchmarking
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - scikit-image
+  - pandas
+  - psutil
+  - fire
+  - pip
+  - pip:
+    - fastlbp_imbg

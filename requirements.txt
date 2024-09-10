@@ -1,0 +1,4 @@
+python_version >= "3.11"
+psutil
+fire
+fastlbp_imbg == 0.1.4
